@@ -13,7 +13,8 @@
   "files": [
     "TaxCollector.js",
     "TaxCollector.d.ts",
-    "TaxCollector.js.map"
+    "TaxCollector.js.map",
+    "TaxCollector.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
