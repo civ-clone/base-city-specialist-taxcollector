@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-city-specialist-taxcollector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The TaxCollector class: a city specialist, one who collects taxes.",
   "repository": "git@github.com:civ-clone/base-city-specialist-taxcollector.git",
   "keywords": [
